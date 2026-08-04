@@ -14,5 +14,6 @@ Movie review tool with sentiment analysis
   url       = {http://www.aclweb.org/anthology/P11-1015}
 }
 
-# License 
-Distributed under the Unlicense license
+# Contact
+Taiki Lowe - taiki.lowe@gmail.com 
+Project Link: https://github.com/TaikiLowe/Movie-Review
