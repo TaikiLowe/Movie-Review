@@ -13,3 +13,6 @@ Movie review tool with sentiment analysis
   pages     = {142--150},
   url       = {http://www.aclweb.org/anthology/P11-1015}
 }
+
+# License 
+Distributed under the Unlicense license
